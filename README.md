@@ -31,7 +31,4 @@ graph TD
         I --> D
         I --> H
     end
-
-    style A,B,C,D,E,F,G,H,I fill:#f2f2f2,stroke:#333,stroke-width:1px,stroke-dasharray: 5,5;
-
 ```
